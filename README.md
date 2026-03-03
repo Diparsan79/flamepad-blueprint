@@ -48,11 +48,11 @@ The PCB was designed in **KiCad**. Direct wiring to the Seeeduino XIAO — no ke
 
 **Schematic**
 
-<img src="assets/schematic.png" alt="Schematic" width="500"/>
+<img src="schematic.png" alt="Schematic" width="500"/>
 
 **PCB Render**
 
-<img src="assets/pcb_render.png" alt="PCB Render" width="400"/>
+<img src="pcb_render.png" alt="PCB Render" width="400"/>
 
 ### Pin Assignments
 
@@ -73,7 +73,7 @@ The PCB was designed in **KiCad**. Direct wiring to the Seeeduino XIAO — no ke
 
 The case was designed in **Fusion 360**. Two-part design: a top plate and a bottom enclosure.
 
-<img src="assets/cad_model.png" alt="CAD Model" width="500"/>
+<img src="cad_model.png" alt="CAD Model" width="500"/>
 
 ---
 
